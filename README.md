@@ -1,7 +1,4 @@
 ### Hey 👋🏽, I'm [Vrushabh!](https://vrushabh.netlify.app/) 
-
-<br/>
-
 <a href="https://twitter.com/vru_izac">
   <img align="left" alt="Vrushabh | Kulye " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -12,10 +9,9 @@
 <a href="https://www.instagram.com/vrushabh_kulye/">
   <img align="left" alt="Vrushabh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-
 <br/><br/>
 
-Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀⚡️ from Maharastra, India. Former Full Stack Developer Intern [@Logyana-Solutions](https://www.logyana.com/). Beside's programming, I enjoy playing soccer and traveling.
+Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀 from Maharastra, India. Former Full Stack Developer Intern [@Logyana-Solutions](https://www.logyana.com/). Beside's programming, I enjoy playing soccer and traveling.
 
 ![](https://img.shields.io/github/followers/IzacVrushabh?label=followers&logo=github&style=flat-square) ![](https://komarev.com/ghpvc/?username=IzacVrushabh&style=flat-square&color=17ef32)
 
