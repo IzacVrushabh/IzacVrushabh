@@ -13,7 +13,11 @@
   <img align="left" alt="Vrushabh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=izacVrushabh)
+<br/><br/>
+![](https://img.shields.io/github/followers/IzacVrushabh?label=followers&logo=github&style=flat-square)
+<!-- ![GitHub User's stars](https://img.shields.io/github/stars/IzacVrushabh?label=%E2%AD%90GitHub%20stars&style=flat-square) -->
+![](https://komarev.com/ghpvc/?username=IzacVrushabh&style=flat-square&color=ff69b4)
+<br/>
 
 <br />
 
