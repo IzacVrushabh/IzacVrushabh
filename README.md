@@ -15,9 +15,7 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀 from Mahara
 
 ![](https://img.shields.io/github/followers/IzacVrushabh?label=followers&logo=github&style=flat-square) ![](https://komarev.com/ghpvc/?username=IzacVrushabh&style=flat-square&color=17ef32)
 
-<br />
-
- <img align="right" alt="GIF" width="400px" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
+ <img align="right" alt="GIF" width="400px" height="250px" src="https://i.pinimg.com/originals/c5/07/5d/c5075d791fee5d4aba5c561280f0ceaa.gif" />
 
   
 ### **Talking about Personal Stuffs:**
