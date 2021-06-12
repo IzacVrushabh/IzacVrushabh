@@ -38,13 +38,7 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀 from Mahara
 
 ### **Technology and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<img height="40" src="/typescript.svg">  <img height="40" src="/react.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">  <img src="/nodejs.svg" width="40"/>  <img src="/nextjs.svg" width="40"/>  <img src="/expressjs.png" width="40"/>  <img src="/mongodb.svg" width="40"/>  <img src="/materialui.svg" width="40"/>  <img src="/bootstrap.svg" width="40"/>  <img src="/redux.svg" width="40"/>  <img src="/vercel.svg" width="40"/>
 
 ![Vrushabh's github Lang](https://github-readme-stats.vercel.app/api/top-langs?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical)
 <!-- <img align="left" height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
