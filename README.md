@@ -36,7 +36,7 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀 from Mahara
 
 ### **Technology and Tools:**  
 
-<img height="40" src="/typescript.svg">  <img height="40" src="/react.png"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">  <img src="/nodejs.svg" width="40"/>  <img src="/nextjs.svg" width="40"/>  <img src="/expressjs.png" width="40"/>  <img src="/mongodb.svg" width="40"/>  <img src="/materialui.svg" width="40"/>  <img src="/bootstrap.svg" width="40"/>  <img src="/redux.svg" width="40"/>  <img src="/vercel.svg" width="40"/>
+<img height="40" src="/typescript.svg">   <img height="40" src="/react.png">   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">   <img src="/nodejs.svg" width="40"/>   <img src="/nextjs.svg" width="40"/>   <img src="/expressjs.png" width="40"/>   <img src="/mongodb.svg" width="40"/>   <img src="/materialui.svg" width="40"/>   <img src="/bootstrap.svg" width="40"/>   <img src="/redux.svg" width="40"/>   <img src="/vercel.svg" width="40"/>
 
 ![Vrushabh's github Lang](https://github-readme-stats.vercel.app/api/top-langs?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical)
 <!-- <img align="left" height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
