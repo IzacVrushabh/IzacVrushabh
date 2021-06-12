@@ -17,7 +17,7 @@
 
 Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀⚡️ from Maharastra, India. Former Full Stack Developer Intern [@Logyana-Solutions](https://www.logyana.com/). Beside's programming, I enjoy playing soccer and traveling.
 
-![](https://img.shields.io/github/followers/IzacVrushabh?label=followers&logo=github&style=flat-square) ![](https://komarev.com/ghpvc/?username=IzacVrushabh&style=flat-square&color=ff69b4)
+![](https://img.shields.io/github/followers/IzacVrushabh?label=followers&logo=github&style=flat-square) ![](https://komarev.com/ghpvc/?username=IzacVrushabh&style=flat-square&color=17ef32)
 
 <br />
 
