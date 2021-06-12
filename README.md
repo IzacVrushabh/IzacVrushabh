@@ -21,7 +21,7 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀⚡️ from 
 
 <br />
 
- <img align="right" alt="GIF" width="400px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+ <img align="right" alt="GIF" width="400px" src="https://media.tenor.com/images/b24460d29cfb2126afbba78c2b02a0d3/tenor.gif" />
 
   
 ### **Talking about Personal Stuffs:**
@@ -50,8 +50,9 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀⚡️ from 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img align="left" height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-
+![Vrushabh's github Lang](https://github-readme-stats.vercel.app/api/top-langs?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical)
+<!-- <img align="left" height=195 src="https://github-readme-stats.vercel.app/api/top-langs?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br/> -->
 ![Vrushabh's github stats](https://github-readme-stats.vercel.app/api?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical)
 <!-- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> -->
 
