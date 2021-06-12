@@ -28,9 +28,9 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀⚡️ from 
 - 👨🏽‍💻 I’m a student at PCCOE , Pune ;
 - 🔭 I’m currently working on MERN / MEAN .
 - 🌱 I’m currently learning Machine Learning algo and improving Web Development Stack.
-- 🤔 I’m looking for help with DSA struggles.
+- 🤔 I’m looking for help with DSA.
 - 💬 Ask me about anything, I am ready to help related to web development;
-- ⚡️ Fun-Fact: **Sprinkle it up on a cool breeze**;
+- ⚡️ Fun-Fact: **I'm super cool**;
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vrushabh-kulye-31bb91134/) | [Instagram](https://www.instagram.com/vrushabh_kulye/) ;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1eKI1zrUZF4kRoB2k8ARQ31fU5E2o9tF7/view?usp=sharing) -->
 
@@ -48,8 +48,8 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀⚡️ from 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-
-![Vrushabh's github stats](https://github-readme-stats.vercel.app/api?username=IzacVrushabh&show_icons=true&hide_border=true)
+![Vrushabh's github stats](https://github-readme-stats.vercel.app/api?username=IzacVrushabh&show_icons=true&locale=en&layout=compact&theme=radical)
 <!-- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> -->
 
