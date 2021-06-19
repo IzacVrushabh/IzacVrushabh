@@ -22,8 +22,8 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀 from Mahara
 
 - 👨🏽‍💻 I’m a student at PCCOE , Pune .
 - 🔭 I’m currently working on MERN / MEAN .
-- 🌱 I’m currently learning Machine Learning Algo and improving my Web Development Stack .
-- 🤔 I’m looking for help with DSA .
+- 🌱 Learning Machine Learning Algo and improving my Web Development Stack .
+- 🤔 Looking for help with DSA .
 - 💬 Ask me about web development & DSA, I am ready to help .
 - ⚡️ Fun-Fact: **I'm super cool**;
 - 📫 How to reach me: **vrushabhkulye@gmail.com** ;
