@@ -31,7 +31,7 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀 from Mahara
 
 <h4>Connect With Me:</h4>
 <p>
-<p><a href="https://github.com/IzacVrushabh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/vru_izac" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vrushabh-kulye-31bb91134/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-FF4500?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://github.com/IzacVrushabh" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/vru_izac" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.reddit.com/user/izac_vrushabh/" target="_blank"><img alt="Reddit" src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a> <a href="https://www.linkedin.com/in/vrushabh-kulye-31bb91134/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ### **Technology and Tools:**  
