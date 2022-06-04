@@ -1,4 +1,4 @@
-### Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , I'm [Vrushabh !](https://vrushabh.netlify.app/) 
+### Hey ... I'm [Vrushabh !](https://vrushabh.netlify.app/) 
 <a href="https://twitter.com/vru_izac">
   <img align="left" alt="Vrushabh | Kulye " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
