@@ -21,7 +21,7 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀 from Mahara
 ### **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a student at PCCOE , Pune .
-- 🔭 I’m currently working on MERN / MEAN .
+- 🔭 I’m currently working on MERN / MEAN / Ruby on Rails.
 - 🌱 Learning Machine Learning Algo and improving my Web Development Stack .
 - 🤔 Looking for help with DSA .
 - 💬 Ask me about web development & DSA, I am ready to help .
