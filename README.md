@@ -25,7 +25,7 @@ Hi, <strong>I'm Vrushabh Kulye</strong>, a Full Stack Developer 🚀 from  Mahar
 - 🌱 Learning Machine Learning Algo and improving my Web Development Stack .
 - 🤔 Looking for help with DSA .
 - 💬 Ask me about web development & DSA, I am ready to help .
-- ⚡️ Fun-Fact: **I'm super cool**;
+- ⚡️ Fun-Fact: **I'm super cool**, **Love to Travel**, **Soccer Freak**;
 - 📫 How to reach me: **vrushabhkulye@gmail.com** ;
 <!-- - 📝[Resume](https://drive.google.com/file/d/1eKI1zrUZF4kRoB2k8ARQ31fU5E2o9tF7/view?usp=sharing) -->
 
